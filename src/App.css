@@ -1,0 +1,25 @@
+.App {
+  text-align: center;
+}
+
+.tompic {
+  height: 600px;
+  width: 570px;
+}
+
+.App-header {
+  background-color: #073b02;
+  display: grid;
+  grid-template-rows: 0% 19% 27%;
+  color: white;
+}
+
+.title {
+  
+  margin-left: 750px;
+  width: fit-content;
+}
+
+.video {
+  margin-left: 600px;
+}
